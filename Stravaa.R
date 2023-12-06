@@ -130,7 +130,7 @@ write.xlsx(df_activities, file = "actividadesStrava.xlsx")
 
 # Filter rows based on sport_type and start_date
 df_activities <- df_activities %>%
-  dplyr::filter(sport_type == "Run" & start_date >= ymd_hms("2022-09-06T15:01:53"))
+  dplyr::filter(sport_type == "Run")
 
 # Save the filtered activity data to an Excel file
 write.xlsx(df_activities, file = "actividadesStrava_filtered.xlsx")
