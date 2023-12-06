@@ -29,8 +29,9 @@ Before running the script, make sure you have the following:
 
 ## Map Preview
 
-![Map Preview](<img width="1432" alt="Screenshot 2023-12-06 at 17 46 14" src="https://github.com/patialonso/StravaMap/assets/146207858/aef9043c-5dea-4870-97bc-95a3e2d32c57">
-)  <!-- Replace 'map_preview.png' with the actual file name of your map image -->
+<img width="1432" alt="Mapa" src="https://github.com/patialonso/StravaMap/assets/146207858/1709cda5-f996-4585-a971-d50cb3a7491f">
+
+
 
 ## Features
 
