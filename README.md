@@ -1,4 +1,3 @@
-# StravaMap
 # Strava Activity Mapping with R
 
 This R script connects to the Strava API, retrieves activity data, filters and processes it, and creates a map visualization using the leaflet package. 
