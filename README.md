@@ -1,7 +1,7 @@
 # Strava Activity Mapping with R
 
 This R script connects to the Strava API, retrieves activity data, filters and processes it, and creates a map visualization using the leaflet package. The resulting map shows the start points of running activities.
-[Uploading map_with_points.html…]()
+
 
 ## Getting Started
 
