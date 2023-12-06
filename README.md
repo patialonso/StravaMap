@@ -27,6 +27,11 @@ Before running the script, make sure you have the following:
 1. Replace the placeholder values in the script with your actual Strava API credentials and Athlete ID.
 2. Run the script.
 
+## Map Preview
+
+![Map Preview](<img width="1432" alt="Screenshot 2023-12-06 at 17 46 14" src="https://github.com/patialonso/StravaMap/assets/146207858/aef9043c-5dea-4870-97bc-95a3e2d32c57">
+)  <!-- Replace 'map_preview.png' with the actual file name of your map image -->
+
 ## Features
 
 - Connects to the Strava API and retrieves activity data.
